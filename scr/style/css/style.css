@@ -1396,10 +1396,10 @@ responsive
 */
 
 
-@media (max-width: 992px) {
+@media (max-width: 720px) {
 
   .main-banner .caption h2 {
-    font-size: 64px;
+    font-size: 250%;
   }
   #features {
     margin-bottom: 110px;
