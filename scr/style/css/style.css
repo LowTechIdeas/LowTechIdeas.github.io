@@ -646,6 +646,14 @@ subscribe
   text-align: center;
 }
 
+#call-to-action-product {
+  padding: 120px 0px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  text-align: center;
+}
+
 .cta-content h2 {
   font-size: 36px;
   text-transform: uppercase;
